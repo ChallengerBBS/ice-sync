@@ -1,0 +1,31 @@
+Summary
+  Generated on: 8/29/2025 - 12:14:42 AM
+  Coverage date: 8/29/2025 - 12:14:10 AM
+  Parser: Cobertura
+  Assemblies: 1
+  Classes: 9
+  Files: 9
+  Line coverage: 43.2%
+  Covered lines: 141
+  Uncovered lines: 185
+  Coverable lines: 326
+  Total lines: 542
+  Branch coverage: 36.8% (14 of 38)
+  Covered branches: 14
+  Total branches: 38
+  Method coverage: 77.4% (24 of 31)
+  Full method coverage: 64.5% (20 of 31)
+  Covered methods: 24
+  Fully covered methods: 20
+  Total methods: 31
+
+IceSync.Api                                                        43.2%
+  IceSync.Api.Controllers.WorkflowsController                      50.6%
+  IceSync.Api.Data.IceSyncDbContext                                   0%
+  IceSync.Api.Domain.DTOs.TokenResponse                             100%
+  IceSync.Api.Domain.DTOs.WorkflowDto                               100%
+  IceSync.Api.Domain.Entities.Workflow                              100%
+  IceSync.Api.Infrastructure.Configuration.UniversalLoaderConfig    100%
+  IceSync.Api.Services.UniversalLoaderApiService                   88.4%
+  IceSync.Api.Services.WorkflowSyncService                            0%
+  Program                                                             0%
